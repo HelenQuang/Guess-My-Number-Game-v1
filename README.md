@@ -2,7 +2,7 @@
 
 A basic game to guess a random number between 1 and 20. The score will be deduced by the number of guesses. The highest score will be stored after click 'Again' button.
 
-# Knowledge:
+# Knowledge: JAVASCRIPT, HTML, CSS
 - Manipulate DOM
 - Handle click event
 - Manipulate CSS styles
