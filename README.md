@@ -1,8 +1,12 @@
 # Guess My Number Game (Learning project):
 
-A basic game to guess a random number between 1 and 20. The score will be deduced by the number of guesses.
+A basic game to guess a random number between 1 and 20. The score will be deduced by the number of guesses. The highest score will be stored after click 'Again' button.
 
-# Technology:
+# Knowledge:
+- Manipulate DOM
+- Handle click event
+- Manipulate CSS styles
+- Refactor code
 
 # DEMO link:
 https://guess-my-number-game-helen.netlify.app/
